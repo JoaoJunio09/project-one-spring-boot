@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (1,'João Junio','Trindade Castro','Masculino','Sebastianópolis do Sul - SP'),(4,'Murilo','Antonio Salvioni','Masculino','Sebastianópolis do Sul - SP'),(5,'José Ricardo','Tofoli','Masculino','Sebastianópolis do Sul - SP');
